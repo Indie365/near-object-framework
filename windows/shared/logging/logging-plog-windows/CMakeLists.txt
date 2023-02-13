@@ -31,5 +31,5 @@ install(
     TARGETS logging-plog-windows
     EXPORT logging-plog-windows
     ARCHIVE
-    PUBLIC_HEADER DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/logging-plog-windows
+    PUBLIC_HEADER DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/logging/windows
 )
